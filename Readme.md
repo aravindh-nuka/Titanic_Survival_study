@@ -2,7 +2,7 @@
 
 ## Intern Details
 
-* Intern ID: YOUR_ID
+* Intern ID: CITS1618
 * Full Name: Nuka Aravindh
 * Duration: 4 Weeks
 
